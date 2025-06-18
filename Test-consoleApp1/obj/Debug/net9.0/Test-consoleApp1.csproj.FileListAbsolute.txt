@@ -12,3 +12,4 @@ C:\Users\eijij\Desktop\C# training\Test-consoleApp1\obj\Debug\net9.0\refint\Test
 C:\Users\eijij\Desktop\C# training\Test-consoleApp1\obj\Debug\net9.0\Test-consoleApp1.pdb
 C:\Users\eijij\Desktop\C# training\Test-consoleApp1\obj\Debug\net9.0\Test-consoleApp1.genruntimeconfig.cache
 C:\Users\eijij\Desktop\C# training\Test-consoleApp1\obj\Debug\net9.0\ref\Test-consoleApp1.dll
+C:\Users\eijij\Desktop\C# training\Test-consoleApp1\obj\Debug\net9.0\Test-consoleApp1.sourcelink.json

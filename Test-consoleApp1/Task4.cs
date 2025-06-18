@@ -1,4 +1,4 @@
-public static class Task3
+public static class Task4
 {
     public static void Run()
     {
@@ -26,6 +26,7 @@ public static class Task3
                     numIndices[nums[i]] = i; // Store the index of the current number
                 }
             }
+            return new int[0]; // Return an empty array if no solution is found
         }
 
         Console.WriteLine("Enter a list of integers separated by spaces:");

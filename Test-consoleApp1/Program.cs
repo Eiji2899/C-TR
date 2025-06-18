@@ -24,8 +24,11 @@ class Program
                 case "3":
                     Task3.Run();
                     break;
+                case "4":
+                    Task4.Run();
+                    break;
                 default:
-                    Console.WriteLine("Invalid choice. Please enter 1, 2, or 3.");
+                    Console.WriteLine("Invalid choice. Please enter 1, 2, or 3....");
                     break;
             }
         }
